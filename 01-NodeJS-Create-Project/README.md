@@ -34,3 +34,22 @@ Steps
 
     index.js----
     The "start": "node index.js" script in a package.json file is commonly used in Node.js projects to define a standard way to start the application. 
+
+
+
+
+Code Logic :::::
+
+    This line imports the Express module and assigns it to the constant express.
+    => const express = require('express');
+
+    require('express') loads the Express module, which is used to create an Express application.
+
+
+    const app = express();
+    This line creates an Express application instance and assigns it to the app variable, allowing you to define routes and middleware.
+
+    const port = 3000;
+    This line sets the server to listen on port 3000 by defining the port variable.
+
+    
