@@ -8,7 +8,7 @@
     *    Global Error Handling
 
 
-........Modules............
+Modules
     1.Welcome
     2. Understand Express Framework
     3. Application
@@ -21,4 +21,3 @@
     10. Template Engines
     11. Project using Express
     12. Round Up
-__________________________
